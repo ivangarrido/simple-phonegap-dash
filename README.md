@@ -1,10 +1,9 @@
-# Simple PhoneGap Dash
+# Simple PhoneGap Dashb
 
-## Run Application
+## Install
+
+	https://build.phonegap.com/apps/201850/share
+
+## Run Application From Source
 
     /www/index.html
-
-## Run Tests
-
-    /www/spec.html
-
