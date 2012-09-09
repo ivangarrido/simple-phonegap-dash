@@ -1,0 +1,229 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"location",
+				"locationID"
+			],
+			[
+				"loc",
+				"locationID"
+			],
+			[
+				"asso",
+				"association"
+			],
+			[
+				"s",
+				"script"
+			],
+			[
+				"Assoc",
+				"AssociatonID"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Jason/Documents/Projects/app/api/fakeapi.php",
+		"/Users/Jason/Documents/Projects/app/api/demoapi.php",
+		"/Users/Jason/Downloads/index.rss",
+		"/Users/Jason/Documents/Projects/app/css/style.css",
+		"/Users/Jason/Documents/Projects/app/js/app.js",
+		"/Users/Jason/Documents/Projects/app/admin/css/bootstrap.css",
+		"/Users/Jason/Documents/Projects/app/admin/index.php",
+		"/Users/Jason/Documents/Projects/app/admin/dash.php",
+		"/Users/Jason/Documents/Projects/app/admin/index.html",
+		"/Users/Jason/Documents/Projects/app/index.html",
+		"/Users/Jason/Documents/Projects/app/api/escanapi.php",
+		"/Users/Jason/Documents/Projects/app/api/api.php",
+		"/Users/Jason/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/Jason/Documents/Projects/app/css/bootstrap/bootstrap.css",
+		"/Users/Jason/Documents/Projects/app/js/plugins.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"bottom-bar",
+			"backdrop",
+			"retina",
+			"backdrop",
+			"Dash",
+			"zombies",
+			"console.log",
+			"consol",
+			"unbin",
+			"DashboardView",
+			"DasshboardView",
+			"startview",
+			"Visits",
+			"css",
+			"add",
+			"engaged",
+			"EngagedToda",
+			"engaged",
+			"overlay",
+			"Start",
+			"Image",
+			"local",
+			"email",
+			"route",
+			"session",
+			"John",
+			"search",
+			"frank",
+			"EEver",
+			"EE",
+			"templat",
+			"program-t",
+			"a",
+			"programTemp",
+			"program",
+			"john",
+			"membership",
+			"Local",
+			"image",
+			"imaage",
+			"cdn",
+			"rgb",
+			"theres",
+			"http://c745205.r5.cf2.rackcdn.com/",
+			"http",
+			"td",
+			"C12222",
+			"render",
+			"start",
+			"dash",
+			"modal",
+			"pathname",
+			"render",
+			"localhost"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/Jason/Documents/Projects/app/app.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 174.0,
+	"status_bar_visible": true
+}
