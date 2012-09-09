@@ -1,4 +1,4 @@
-# Simple PhoneGap Dashb
+# Simple PhoneGap Dashboard
 
 ## Install
 
