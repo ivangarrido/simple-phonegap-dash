@@ -29,15 +29,14 @@ body {
 
 /* Portrait layout (default) */
 #app {
-    padding:10px;
+    padding:5%;
     background-color:#fff;
 }
+    #app table {width:90%;}
 
-#sidebar {background-color:#000;padding:5px;}
-
-/*bootstrap mods*/
-.nav-tabs.nav-stacked > li > a {color:#fff;padding:15px 10px;}
-.nav-tabs.nav-stacked {width: 240px;}
+#sidebar {color:#fff;background-color:#2A8FBD;padding:5px;}
+    #sidebar .nav-stacked > li > a {background:#fff;padding:15px 10px;}
+    #sidebar .nav-tabs.nav-stacked {width: 240px;}
 
 /* Landscape layout (with min-width) */
 @media screen and (min-aspect-ratio: 1/1) and (min-width:400px) {
